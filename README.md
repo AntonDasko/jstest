@@ -1,1 +1,1 @@
-# jstest
+# jstest for test only
